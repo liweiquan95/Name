@@ -1,0 +1,38 @@
+.box {
+	height:100px;
+	width:900px;
+}
+
+.ll {
+	height:80px;
+	width:70px;
+	background:url(../img/word.png) -34px -34px;
+	float:left;
+}
+.l1 {
+	background-position: -434px -138px;
+}
+.l2 {
+	background-position: -194px -129px;
+}
+.l3 {
+	height:100px;
+	background-position: -200px -309px;
+}
+.l4 {
+	width:130px;
+	background:url(../img/word.png) -350px -40px;
+}
+.l6 {
+	height:75px;
+	width:95px;
+	background-position: -290px -240px;
+}
+.l7 {
+	width:90px;
+	background-position: 0 -350px;
+}
+.l9{
+	width:90px;
+	background-position: -20px -240px;
+}
